@@ -1,0 +1,11 @@
+{"timestamp": "2026-04-16 13:27:04,086", "level": "INFO", "logger": "gravity", "message": "[V10.0] Security Monitor, Image Queue y Game Server Manager iniciados."}
+{"timestamp": "2026-04-16 13:27:04,119", "level": "INFO", "logger": "gravity", "message": "Gravity Bridge V10.0 \u2014 http://localhost:7860 | Dashboard: / | API: /v1"}
+{"timestamp": "2026-04-16 13:30:26,795", "level": "INFO", "logger": "gravity.gameserver", "message": "[GameServer] MySQL arrancado para wow_vanilla"}
+{"timestamp": "2026-04-16 13:30:29,801", "level": "INFO", "logger": "gravity.gameserver", "message": "[GameServer] realmd.exe iniciado (PID 25812)"}
+{"timestamp": "2026-04-16 13:30:31,808", "level": "INFO", "logger": "gravity.gameserver", "message": "[GameServer] mangosd.exe iniciado (PID 25632)"}
+{"timestamp": "2026-04-16 13:30:41,809", "level": "WARNING", "logger": "gravity.gameserver", "message": "[GameServer Watchdog] wow_vanilla cay\u00f3. Reiniciando en 15s..."}
+{"timestamp": "2026-04-16 13:30:56,812", "level": "INFO", "logger": "gravity.gameserver", "message": "[GameServer] MySQL arrancado para wow_vanilla"}
+{"timestamp": "2026-04-16 13:30:59,814", "level": "INFO", "logger": "gravity.gameserver", "message": "[GameServer] realmd.exe iniciado (PID 26824)"}
+{"timestamp": "2026-04-16 13:31:01,817", "level": "INFO", "logger": "gravity.gameserver", "message": "[GameServer] mangosd.exe iniciado (PID 27728)"}
+{"timestamp": "2026-04-16 13:37:46,426", "level": "INFO", "logger": "gravity", "message": "[V10.0] Security Monitor, Image Queue y Game Server Manager iniciados."}
+{"timestamp": "2026-04-16 13:37:46,461", "level": "INFO", "logger": "gravity", "message": "Gravity Bridge V10.0 \u2014 http://localhost:7860 | Dashboard: / | API: /v1"}
