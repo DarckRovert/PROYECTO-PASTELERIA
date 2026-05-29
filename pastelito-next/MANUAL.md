@@ -1,4 +1,4 @@
-# 📖 Manual de Usuario — Dulces Momentos (v6.0)
+# 📖 Manual de Usuario — Antojitos Express (v6.0)
 
 > Este manual explica cómo usar todas las funciones del sistema,
 > tanto para el **cliente** (público) como para el **dueño** (tú).
@@ -354,7 +354,7 @@ Tus cambios en el Admin Panel se sincronizan automáticamente entre dispositivos
 3. Netlify detecta el cambio, hace `npm run build` y actualiza tu sitio automáticamente
 
 ### Deploy manual a Netlify:
-1. Ejecuta `npm run build` en la carpeta `pastelito-next/`
+1. Ejecuta `npm run build` en la carpeta `antojitos-express-app/`
 2. Ve a [app.netlify.com](https://app.netlify.com)
 3. Arrastra la carpeta `.next` generada al panel de Netlify
 
@@ -367,7 +367,7 @@ Tus cambios en el Admin Panel se sincronizan automáticamente entre dispositivos
 
 ### Iniciar
 ```bash
-cd pastelito-next
+cd antojitos-express-app
 npm install        # Solo la primera vez
 npm run dev        # Inicia servidor de desarrollo
 ```
@@ -425,4 +425,4 @@ npm run build
 ---
 
 **Desarrollado por:** Rodrigo Alejandro Vega Rojas (DarckRovert)
-© 2026 Dulces Momentos
+© 2026 Antojitos Express

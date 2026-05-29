@@ -1,8 +1,8 @@
-# 🍰 Dulces Momentos — Pastelito AI (God Mode v6.0)
+# 🍰 Antojitos Express — Antojín AI (God Mode v6.0)
 
 > **"La primera pastelería gestionada por una Inteligencia Artificial 100% Autónoma."**
 
-**Dulces Momentos** es una e-commerce de pastelería artesanal con un chatbot administrador autónomo capaz de gestionar la tienda, diseñar la interfaz, analizar finanzas y proteger el sistema mediante lenguaje natural.
+**Antojitos Express** es una e-commerce de pastelería artesanal con un chatbot administrador autónomo capaz de gestionar la tienda, diseñar la interfaz, analizar finanzas y proteger el sistema mediante lenguaje natural.
 
 🌐 **Ver en vivo:** [dulcesmoment0s.netlify.app](https://dulcesmoment0s.netlify.app)
 
@@ -12,7 +12,7 @@
 
 | Campo | Detalle |
 |-------|---------|
-| **Negocio** | Dulces Momentos |
+| **Negocio** | Antojitos Express |
 | **Rubro** | Pastelería Artesanal |
 | **Ubicación** | Santiago de Surco, Lima, Perú |
 | **WhatsApp** | [+51 965 968 723](https://wa.me/51965968723) |
@@ -86,7 +86,7 @@
 
 ```bash
 # 1. Instalar dependencias
-cd pastelito-next
+cd antojitos-express-app
 npm install
 
 # 2. Configurar variables de entorno
@@ -139,4 +139,4 @@ Rodrigo Alejandro Vega Rojas (**DarckRovert**)
 > *"La tecnología debe ser mágica, pero sobre todo, útil."*
 
 ---
-© 2026 Dulces Momentos. Todos los derechos reservados.
+© 2026 Antojitos Express. Todos los derechos reservados.

@@ -1,4 +1,4 @@
-# 🍰 Tutorial de Configuración — Dulces Momentos
+# 🍰 Tutorial de Configuración — Antojitos Express
 
 Guía paso a paso para configurar todo lo que el proyecto necesita correr en producción.
 **Tiempo estimado total: 30–45 minutos.**
@@ -18,7 +18,7 @@ Guía paso a paso para configurar todo lo que el proyecto necesita correr en pro
 
 ## 1. Configurar `.env.local`
 
-Crea el archivo `.env.local` en la raíz de `pastelito-next/` si no existe:
+Crea el archivo `.env.local` en la raíz de `antojitos-express-app/` si no existe:
 
 ```bash
 # ── FIREBASE ──────────────────────────────────────────────────────────────────
@@ -59,7 +59,7 @@ npm install -g firebase-tools
 # 1. Autentícate con tu cuenta de Google
 firebase login
 
-# 2. Asocia el proyecto (ejecuta desde la raíz de pastelito-next)
+# 2. Asocia el proyecto (ejecuta desde la raíz de antojitos-express-app)
 firebase use tu-proyecto-id
 
 # 3. Despliega SOLO las reglas (no toca nada más)
@@ -209,16 +209,16 @@ Cuando tengas la cuenta aprobada para producción:
 2. En [Netlify](https://netlify.com) → **Add new site** → **Import from Git**
 3. Selecciona tu repositorio
 4. Configuración de build:
-   - **Base directory:** `pastelito-next`
+   - **Base directory:** `antojitos-express-app`
    - **Build command:** `npm run build`
-   - **Publish directory:** `pastelito-next/.next`
+   - **Publish directory:** `antojitos-express-app/.next`
 
 5. Ve a **Site settings** → **Environment variables** y agrega **todas** las variables de tu `.env.local`
 
 ### Opción B: Build local + arrastrar carpeta
 
 ```bash
-cd pastelito-next
+cd antojitos-express-app
 npm run build
 ```
 
@@ -255,4 +255,4 @@ Agrega todas estas en Netlify → Site settings → Environment variables:
 
 ---
 
-*Tutorial generado el 03/03/2026 · Proyecto: Dulces Momentos · Arquitecto: DarckRovert*
+*Tutorial generado el 03/03/2026 · Proyecto: Antojitos Express · Arquitecto: DarckRovert*

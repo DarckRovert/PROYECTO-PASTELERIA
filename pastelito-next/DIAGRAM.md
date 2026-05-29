@@ -1,4 +1,4 @@
-# 🗺️ Diagrama de Arquitectura — Pastelito AI v5.0
+# 🗺️ Diagrama de Arquitectura — Antojín AI v5.0
 
 ## Flujo Principal
 

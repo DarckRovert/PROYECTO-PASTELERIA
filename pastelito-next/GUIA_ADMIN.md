@@ -1,5 +1,5 @@
 # 👑 Guía de Administración (Sin Código) — v6.0
-### Dulces Momentos - Panel de Control
+### Antojitos Express - Panel de Control
 
 Esta guía te enseña a administrar tu página web sin tocar código.
 

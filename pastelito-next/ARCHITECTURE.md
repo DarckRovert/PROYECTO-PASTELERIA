@@ -1,6 +1,6 @@
-# 🏗️ Arquitectura del Sistema: Pastelito AI (God Mode v5.0)
+# 🏗️ Arquitectura del Sistema: Antojín AI (God Mode v5.0)
 
-Este documento detalla la arquitectura técnica de **Dulces Momentos**, una e-commerce SPA (Single Page Application) controlada por una IA autónoma local.
+Este documento detalla la arquitectura técnica de **Antojitos Express**, una e-commerce SPA (Single Page Application) controlada por una IA autónoma local.
 
 **Autor y Arquitecto:** Rodrigo Alejandro Vega Rojas (DarckRovert).
 
@@ -220,3 +220,7 @@ Declaraciones de tipos para módulos sin TypeScript nativo:
 
 ---
 Documentación generada automáticamente por DarckRovert.
+
+
+## 🚀 Optimización de Rendimiento
+Se ha implementado un Web Worker (`nlp.worker.ts`) para procesar el NLP (Natural Language Processing) en paralelo, manteniendo la interfaz de usuario a 60 FPS sin bloqueos en el hilo principal.
